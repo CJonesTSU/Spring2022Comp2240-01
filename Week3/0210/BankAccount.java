@@ -40,6 +40,14 @@ public class BankAccount{
     return balance;
   }
   
+  // Set balance methods
+  public void setBalance(double b){
+    balance = b;
+  }
+  
+  public void setBalance(String str){
+    balance = Double.parseDouble(str);
+  }
   
   
 }

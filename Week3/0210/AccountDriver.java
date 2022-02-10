@@ -22,5 +22,12 @@ public class AccountDriver{
     
     System.out.println("acc2 withdrew $2.50 account balance is: " + acc2.getBalance());
     System.out.println("acc3 withdrew $8.25 balance is: " + acc3.getBalance());
+    
+    System.out.println("Testing set balance methods");
+    acc1.setBalance(100.01);
+    acc3.setBalance("5000.50");
+    
+    System.out.println("acc1 set balance to be $100.01 balance is: " + acc1.getBalance());
+    System.out.println("acc3 set balance to be $5000.50 balance is: " + acc3.getBalance());
    }
 }

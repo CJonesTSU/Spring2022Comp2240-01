@@ -35,6 +35,13 @@ public class BankAccount{
   }  
   
   
+  // getter or accessor
+  public double getBalance(){
+    return balance;
+  }
+  
+  
+  
 }
 
 

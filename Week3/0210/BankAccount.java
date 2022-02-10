@@ -10,7 +10,23 @@ public class BankAccount{
     balance = startBalance;
   }
   
-  public BankAccount(String startBalance){
-    balance = Double.parseDouble(startBalance);
+  public BankAccount(String str){
+    balance = Double.parseDouble(str);
+  }
+  
+  // deposit methods
+  public void deposit(double amount){
+    // balance = balance + amount is equivalent to balance += amount
+    balance += amount;
+  }
+  
+  public void deposit(String str){
+    balance += Double.parseDouble(str);
   }
 }
+
+
+
+
+
+

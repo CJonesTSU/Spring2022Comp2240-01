@@ -6,5 +6,8 @@ public class AccountDriver{
     
     acc1.deposit(99.23);
     acc2.deposit("15.75");
+    
+    acc2.withdraw(2.50);
+    acc3.withdraw("8.25");
    }
 }

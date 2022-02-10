@@ -23,6 +23,18 @@ public class BankAccount{
   public void deposit(String str){
     balance += Double.parseDouble(str);
   }
+  
+  // withdraw methods
+  public void withdraw(double amount){
+    // balance = balance - amount is equivalent to balance i= amount
+    balance -= amount;
+  }
+  
+  public void withdraw(String str){
+    balance -= Double.parseDouble(str);
+  }  
+  
+  
 }
 
 

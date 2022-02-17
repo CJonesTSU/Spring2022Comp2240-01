@@ -24,6 +24,28 @@ public class Person{
     return result;
   }
   
+  public void setFirstName(String f){
+    firstName = f;  
+  }
+  
+  public void setLastName(String l){
+    lastName = l;
+  }
+  
+  public void setSSN(String ssn){
+    SSN = ssn;
+  }
+  
+  public void setBirthYear(int y){
+    birthYear = y;
+  }
+  
+  
+  
+  
+  
+  
+  
   
   
 }

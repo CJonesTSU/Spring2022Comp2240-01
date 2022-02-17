@@ -48,12 +48,4 @@ public class BankAccount{
   public void setBalance(String str){
     balance = Double.parseDouble(str);
   }
-  
-  
 }
-
-
-
-
-
-

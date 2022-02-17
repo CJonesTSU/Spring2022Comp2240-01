@@ -24,6 +24,4 @@ public class Die{
   public int getRoll(){
     return rand.nextInt(sides) + 1;
   }
-  
-  
 }

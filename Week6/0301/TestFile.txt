@@ -1,0 +1,13 @@
+Hi there!
+Chris Jones
+Index is: 0 just like normal but written to a file
+Index is: 1 just like normal but written to a file
+Index is: 2 just like normal but written to a file
+Index is: 3 just like normal but written to a file
+Index is: 4 just like normal but written to a file
+Index is: 5 just like normal but written to a file
+Index is: 6 just like normal but written to a file
+Index is: 7 just like normal but written to a file
+Index is: 8 just like normal but written to a file
+Index is: 9 just like normal but written to a file
+We only live once, so don't screw it up!

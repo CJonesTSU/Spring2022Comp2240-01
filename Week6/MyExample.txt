@@ -1,0 +1,23 @@
+This is a new file.
+
+Index is: 0 printed just like normal but written to a file
+Index is: 1 printed just like normal but written to a file
+Index is: 2 printed just like normal but written to a file
+Index is: 3 printed just like normal but written to a file
+Index is: 4 printed just like normal but written to a file
+Index is: 5 printed just like normal but written to a file
+Index is: 6 printed just like normal but written to a file
+Index is: 7 printed just like normal but written to a file
+Index is: 8 printed just like normal but written to a file
+Index is: 9 printed just like normal but written to a file
+Index is: 10 printed just like normal but written to a file
+Index is: 11 printed just like normal but written to a file
+Index is: 12 printed just like normal but written to a file
+Index is: 13 printed just like normal but written to a file
+Index is: 14 printed just like normal but written to a file
+Index is: 15 printed just like normal but written to a file
+Index is: 16 printed just like normal but written to a file
+Index is: 17 printed just like normal but written to a file
+Index is: 18 printed just like normal but written to a file
+Index is: 19 printed just like normal but written to a file
+We only live once, so don't screw it up!

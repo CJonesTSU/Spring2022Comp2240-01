@@ -30,6 +30,9 @@ public class BadArray
       catch (Exception e){
         System.out.println("General exception.");
       }
+      finally{
+        System.out.println("Finally always runs");
+      }
       
       
       System.out.println("After try block, program exection continues");
